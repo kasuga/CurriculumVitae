@@ -5,7 +5,7 @@
 |---|---|
 |Birth| 1993/06/29|
 |Famiry| 未婚・子供なし|
-|Location| 石川県 金沢市|
+|Location| 石川県金沢市|
 |Mail| ksg.kamina93@gmail.com|
 
 ## 趣味
@@ -14,16 +14,16 @@
   - 1番好きなのエクスペンダブルズシリーズ
   - 土日はよく動画配信サービスで映画を探している
 - ゲーム
-  - オールジャンルやります。(コンシューマもPCもスマホも)
+  - オールジャンルやります。（コンシューマーもPCもスマホも）
   - FPSが得意、大会出場経験有
-  - なんだかんだ一番好きなのはシュミレーションゲーム
+  - なんだかんだ一番好きなのはシミュレーションゲーム
 - アニメ
-  - 1シーズン一通りは見て、何個か見ます
+  - 1シーズンひととおりは見て、何個か見ます
   - 地方なので動画配信サービスだより
 - 日本酒
   - たまに蔵見学とか行きます
   - 日本酒にあう料理を探すのが好き
-  - 飲み比べで銘柄当てれます
+  - 飲み比べで銘柄当てられます
 
 ### スキルマップ
 理解度基準
@@ -40,7 +40,7 @@
 |Java|1年|◯|
 |Ruby|1年|◯|
 |COBOL|半年|△|
-|Objective-C|1ヶ月|△|
+|Objective-C|1か月|△|
 |Python||△|
 |Golang||△|
 |C||△|
@@ -53,12 +53,12 @@
 |CakePHP|半年|◯|
 |Laravel|1年|◯|
 |Ruby on Rails|1年|◯|
-|Django|3ヶ月|△|
+|Django|3か月|△|
 |Spring Fremework|半年|△|
 |JQuery|2年|◯|
 |React||△|
-|Bootstrap3|2年|◎|
-|Bootstrap4|半年|◯|
+|Bootstrap 3|2年|◎|
+|Bootstrap 4|半年|◯|
 |Pure|半年|◯|
 ---
 |AWS Service|期間|理解度|
@@ -75,16 +75,16 @@
 |ElastiCache|1年|◯|
 |S3 Bucket|2年|◯|
 |CloudFront|2年|◯|
-|WAF & Shield|3ヶ月|◯|
+|WAF & Shield|3か月|◯|
 |Certificate Manage|1年|◯|
 |Route53|1年|◯|
 |CloudWatch|1年|◯|
-|ECS|3ヶ月|△|
-|ECR|3ヶ月|△|
-|CodeBuild|3ヶ月|△|
-|CodePipeline|3ヶ月|△|
-|Lambda|3ヶ月|△|
-|API Gateway|3ヶ月|△|
+|ECS|3か月|△|
+|ECR|3か月|△|
+|CodeBuild|3か月|△|
+|CodePipeline|3か月|△|
+|Lambda|3か月|△|
+|API Gateway|3か月|△|
 |IAM|1年|◯|
 |Role|1年|◯|
 |Policy|1年|◯|
@@ -97,7 +97,7 @@
 |Mysql|1年半|◯|
 |MariaDB|半年|◯|
 |Postgresql|1年|◯|
-|Redash|3ヶ月|◯|
+|Redash|3か月|◯|
 |Git|2年|◯|
 |CVS|1年|◯|
 |CircleCI|1年|◯|
@@ -109,12 +109,10 @@
 |Elastic Cloud|1年|◯|
 |Sentry|半年|◯|
 |LogDNA|半年|◯|
-|Mackerel|3ヶ月|◯|
-|New Relic|3ヶ月|◯|
-|Datadog|3ヶ月|◯|
+|Mackerel|3か月|◯|
+|New Relic|3か月|◯|
+|Datadog|3か月|◯|
 |Docker|1年|◯|
-
-## 強み
 
 ## やったことはないが興味があるもの
 - GCP
@@ -124,7 +122,7 @@
 
 ## 登壇歴
 - 社内
-  - LT 機械学習の初め方
+  - LT機械学習の初め方
   - LT CloudFrontでの推奨環境構築
 - 社外
   - なし
